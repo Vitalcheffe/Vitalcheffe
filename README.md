@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/assets/banner.png" alt="Vitalcheffe" width="100%" />
-</p>
 
 <h1 align="center">Amine Harch</h1>
 <p align="center">Systems Engineer & Physics · 16 · Casablanca 🇲🇦</p>
