@@ -33,6 +33,16 @@
 
 ---
 
+### Fixing things that matter
+
+Sometimes the best projects are the ones you don't own. I look for the cracks in major open-source frameworks and fill them — the undocumented features, the config options that silently fail, the edge cases nobody tested.
+
+<a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AVitalcheffe">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitalcheffe&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" />
+</a>
+
+---
+
 ### Philosophy
 
 > If a system isn't strictly bounded by physics and academic literature, it's a toy.
