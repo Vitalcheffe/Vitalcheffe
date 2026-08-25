@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 
 ### [Aegis](https://github.com/Vitalcheffe/Aegis)
-Multi-agent estimation under uncertainty — UKF (Merwe sigma points), IMM (4 models), BFT consensus, chi-square gating. 149 tests. Not a weapon — research only.
+Multi-agent estimation under uncertainty — UKF (Merwe sigma points), IMM (4 models), BFT consensus, chi-square gating. 149 tests. Research only.
 
 </td>
 <td width="50%" valign="top">
@@ -32,7 +32,7 @@ First AI that plays Moroccan Rami by looking at real cards with a camera. Vision
 <td width="50%" valign="top">
 
 ### [ClearPath AI](https://github.com/Vitalcheffe/clearpath-ai-prod)
-USAII Global AI Hackathon 2026 winner (#1 of 320). Community resource navigator with calibrated confidence — 6-layer pipeline, BART-large-MNLI, crisis regex, no auto-dial.
+USAII Global AI Hackathon 2026 winner (#1 of 320). Community resource navigator with calibrated confidence — 6-layer pipeline, BART-large-MNLI, crisis regex.
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,16 @@ Open-source engineering simulation in the browser — FEA, thermal, CFD solvers 
 
 ## Open source
 
-3 PRs to [openclaw/openclaw](https://github.com/openclaw/openclaw) (81k stars) — 2 merged, 1 closed superseded after 5 iterations on a security boundary fix.
+6 PRs merged across 6 projects:
+
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** (81k stars) — wired `memorySearch.extraPaths` to QMD indexing (core, +201 lines, merged with maintainer)
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — fixed Telegram polling stall threshold (adapted by maintainer, merged)
+- **[inertiajs/inertia](https://github.com/inertiajs/inertia)** — fixed undefined values overwriting visit defaults
+- **[module-federation/vite](https://github.com/module-federation/vite)** — fixed custom cacheDir in dev transform
+- **[apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)** — fixed legend staying grayed out after re-enabling series
+- **[vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)** — patched path traversal vulnerability in deleteFile
+
+Also contributed to (PRs closed, not merged): microsoft/playwright, openai/openai-python, anthropics/anthropic-sdk-python, BerriAI/litellm, mem0ai/mem0, pydantic/pydantic-ai, agno-agi/agno, ionic-team/ionic-framework.
 
 ---
 
