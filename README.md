@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-    <img src="assets/header-light.png" alt="VitalCheffe" width="800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/header-light.png" alt="VitalCheffe" width="800">
   </picture>
 </p>
 
@@ -10,8 +10,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.png">
-  <img src="assets/divider-light.png" alt="" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-dark.png">
+  <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-light.png" alt="" width="800">
 </picture>
 
 ## Projects
@@ -21,16 +21,16 @@
     <td width="50%" align="center">
       <a href="https://github.com/Vitalcheffe/Aegis">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-aegis-dark.png">
-          <img src="assets/card-aegis-light.png" alt="Aegis" width="380">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-aegis-dark.png">
+          <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-aegis-light.png" alt="Aegis" width="380">
         </picture>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Vitalcheffe/ramai">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-ramai-dark.png">
-          <img src="assets/card-ramai-light.png" alt="ramai" width="380">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-ramai-dark.png">
+          <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-ramai-light.png" alt="ramai" width="380">
         </picture>
       </a>
     </td>
@@ -39,16 +39,16 @@
     <td width="50%" align="center">
       <a href="https://github.com/Vitalcheffe/clearpath-ai-prod">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-clearpath-ai-dark.png">
-          <img src="assets/card-clearpath-ai-light.png" alt="ClearPath AI" width="380">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-clearpath-ai-dark.png">
+          <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-clearpath-ai-light.png" alt="ClearPath AI" width="380">
         </picture>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Vitalcheffe/over-engineer">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-over-engineer-dark.png">
-          <img src="assets/card-over-engineer-light.png" alt="Over Engineer" width="380">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-over-engineer-dark.png">
+          <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/card-over-engineer-light.png" alt="Over Engineer" width="380">
         </picture>
       </a>
     </td>
@@ -56,8 +56,8 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.png">
-  <img src="assets/divider-light.png" alt="" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-dark.png">
+  <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-light.png" alt="" width="800">
 </picture>
 
 ## Open source
@@ -69,8 +69,8 @@ Contributed to [openclaw/openclaw](https://github.com/openclaw/openclaw) (81k st
 - [PR #57889](https://github.com/openclaw/openclaw/pull/57889) — security boundary fix, closed superseded after 5 iterations
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.png">
-  <img src="assets/divider-light.png" alt="" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-dark.png">
+  <img src="https://raw.githubusercontent.com/Vitalcheffe/Vitalcheffe/main/divider-light.png" alt="" width="800">
 </picture>
 
 ## About
