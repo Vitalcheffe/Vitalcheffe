@@ -6,7 +6,7 @@
   <a href="https://github.com/Vitalcheffe?tab=repositories"><img src="https://img.shields.io/badge/repos-8%20public-181717?style=flat-square" alt="repos"></a>
   <img src="https://img.shields.io/badge/contributions-7,266%2Fyear-181717?style=flat-square" alt="contributions">
   <img src="https://img.shields.io/badge/tests-149%20passing-22c55e?style=flat-square" alt="tests">
-  <a href="https://vitalcheffe.github.io"><img src="https://img.shields.io/badge/portfolio-vitalcheffe.github.io-6366f1?style=flat-square" alt="portfolio"></a>
+  <a href="https://vitalcheffe.github.io"><img src="https://img.shields.io/badge/site-vitalcheffe.github.io-6366f1?style=flat-square" alt="site"></a>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Open-source engineering simulation in the browser — FEA, thermal, CFD solvers 
 
 6 PRs merged across 6 projects:
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** (81k stars) — wired `memorySearch.extraPaths` to QMD indexing (core, +201 lines, merged with maintainer)
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)**  — wired `memorySearch.extraPaths` to QMD indexing (core, +201 lines, merged with maintainer)
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — fixed Telegram polling stall threshold (adapted by maintainer, merged)
 - **[inertiajs/inertia](https://github.com/inertiajs/inertia)** — fixed undefined values overwriting visit defaults
 - **[module-federation/vite](https://github.com/module-federation/vite)** — fixed custom cacheDir in dev transform
