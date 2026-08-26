@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/contributions-7,266%2Fyear-181717?style=flat-square" alt="contributions">
   <img src="https://img.shields.io/badge/tests-149%20passing-22c55e?style=flat-square" alt="tests">
   <a href="https://vitalcheffe.github.io"><img src="https://img.shields.io/badge/site-vitalcheffe.github.io-6366f1?style=flat-square" alt="site"></a>
+  <a href="https://github.com/Vitalcheffe/ramai/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Vitalcheffe/ramai/tests.yml?style=flat-square&label=ramai" alt="ramai tests"></a>
+  <a href="https://github.com/Vitalcheffe/Aegis/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/Vitalcheffe/Aegis/tests.yml?style=flat-square&label=Aegis" alt="Aegis tests"></a>
 </p>
 
 ---
